@@ -1,0 +1,162 @@
+[
+  {
+    "id": "leer-texto",
+    "nombre": "Leer texto en voz alta",
+    "categoria": "Accesibilidad",
+    "guia": "guias/leer-texto/README.md",
+    "plantilla_sin_firmar": "plantillas-sin-firmar/leer-texto.shortcut",
+    "validado_en_ios": false
+  },
+  {
+    "id": "contar-palabras",
+    "nombre": "Contar palabras de un texto",
+    "categoria": "Texto",
+    "guia": "guias/contar-palabras/README.md",
+    "plantilla_sin_firmar": "plantillas-sin-firmar/contar-palabras.shortcut",
+    "validado_en_ios": false
+  },
+  {
+    "id": "texto-base64",
+    "nombre": "Codificar texto en Base64",
+    "categoria": "Texto",
+    "guia": "guias/texto-base64/README.md",
+    "plantilla_sin_firmar": "plantillas-sin-firmar/texto-base64.shortcut",
+    "validado_en_ios": false
+  },
+  {
+    "id": "decodificar-base64",
+    "nombre": "Decodificar texto Base64",
+    "categoria": "Texto",
+    "guia": "guias/decodificar-base64/README.md",
+    "plantilla_sin_firmar": "plantillas-sin-firmar/decodificar-base64.shortcut",
+    "validado_en_ios": false
+  },
+  {
+    "id": "abrir-calendario",
+    "nombre": "Abrir Calendario",
+    "categoria": "Productividad",
+    "guia": "guias/abrir-calendario/README.md",
+    "plantilla_sin_firmar": "plantillas-sin-firmar/abrir-calendario.shortcut",
+    "validado_en_ios": false
+  },
+  {
+    "id": "lista-salida",
+    "nombre": "Recordatorio de salida",
+    "categoria": "Vida diaria",
+    "guia": "guias/lista-salida/README.md",
+    "plantilla_sin_firmar": "plantillas-sin-firmar/lista-salida.shortcut",
+    "validado_en_ios": false
+  },
+  {
+    "id": "imagenes-a-pdf",
+    "nombre": "Convertir imágenes a PDF",
+    "categoria": "Documentos",
+    "guia": "guias/imagenes-a-pdf/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "unir-pdf",
+    "nombre": "Unir documentos PDF",
+    "categoria": "Documentos",
+    "guia": "guias/unir-pdf/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "reducir-fotos",
+    "nombre": "Crear copias de fotos reducidas",
+    "categoria": "Imágenes",
+    "guia": "guias/reducir-fotos/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "extraer-texto-foto",
+    "nombre": "Extraer texto de una imagen",
+    "categoria": "Imágenes",
+    "guia": "guias/extraer-texto-foto/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "qr-texto",
+    "nombre": "Crear un QR con texto",
+    "categoria": "Compartir",
+    "guia": "guias/qr-texto/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "qr-wifi",
+    "nombre": "Crear un QR de Wi-Fi",
+    "categoria": "Compartir",
+    "guia": "guias/qr-wifi/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "nueva-tarea",
+    "nombre": "Añadir una tarea con fecha",
+    "categoria": "Productividad",
+    "guia": "guias/nueva-tarea/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "agenda-hoy",
+    "nombre": "Consultar la agenda de hoy",
+    "categoria": "Productividad",
+    "guia": "guias/agenda-hoy/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "guardar-aparcamiento",
+    "nombre": "Guardar dónde has aparcado",
+    "categoria": "Ubicación",
+    "guia": "guias/guardar-aparcamiento/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "tiempo-hasta-destino",
+    "nombre": "Consultar tiempo hasta un destino",
+    "categoria": "Movilidad",
+    "guia": "guias/tiempo-hasta-destino/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "registrar-gasto",
+    "nombre": "Añadir un gasto a un CSV",
+    "categoria": "Finanzas personales",
+    "guia": "guias/registrar-gasto/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "registro-habitos",
+    "nombre": "Registrar un hábito",
+    "categoria": "Vida diaria",
+    "guia": "guias/registro-habitos/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "limpiar-portapapeles",
+    "nombre": "Vaciar el portapapeles",
+    "categoria": "Privacidad",
+    "guia": "guias/limpiar-portapapeles/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  },
+  {
+    "id": "menu-diario",
+    "nombre": "Menú de accesos para el día",
+    "categoria": "Productividad",
+    "guia": "guias/menu-diario/README.md",
+    "plantilla_sin_firmar": null,
+    "validado_en_ios": false
+  }
+]
